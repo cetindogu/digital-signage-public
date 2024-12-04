@@ -1,6 +1,6 @@
 
 # Privacy Policy for Digital Signage
-**Effective Date:** [Insert Date]
+**Effective Date:**  2024-12-04 (yyyy-MM-dd)
 
 ## Introduction  
 Welcome to Digital Signage, a service provided by Lobby Esports Software. This Privacy Policy outlines how we collect, use, and protect your personal data when you use our web application, "Digital Signage."

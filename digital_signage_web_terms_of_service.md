@@ -1,6 +1,6 @@
 
 # Terms of Service for Digital Signage
-**Effective Date**: [Insert Date]
+**Effective Date**: 2024-12-04 (yyyy-MM-dd)
 
 ## 1. Acceptance of Terms  
 By accessing and using the Digital Signage service (the "Service"), you agree to comply with and be bound by these Terms of Service. If you do not agree with these terms, you may not use the Service.
